@@ -1,6 +1,0 @@
-streamlit
-google-generativeai
-Pillow
-python-dotenv
-numpy
-streamlit-drawable-canvas
